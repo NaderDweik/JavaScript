@@ -19,7 +19,7 @@ Each topic is **organized into a separate branch**, allowing you to focus on one
 ## 💻 How to Use:  
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/YOUR_USERNAME/JavaScript-Learning.git
+   git clone https://github.com/NaderDweik/JavaScript.git
    ```
 2. **Switch to a topic branch**  
    ```bash
