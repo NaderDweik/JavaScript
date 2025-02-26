@@ -13,7 +13,8 @@ This repository is designed to **teach JavaScript** by breaking down concepts in
 ✅ **Advanced Objects** (Object methods)  
 ✅ **Advanced Arrays** (Array methods)  
 ✅ **Advanced Dates** (Date methods)  
-✅ **Closure/n** (methods and examples)
+✅ **Closure/** (methods and examples)
+****
 ✅ **Java Script Classes** (Methods, Inhertance, Encapsulatio, Mixin)  
 
 
