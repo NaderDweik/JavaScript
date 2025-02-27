@@ -16,6 +16,7 @@ This repository is designed to **teach JavaScript** by breaking down concepts in
 ****
 ✅ **Java Script Classes** (Methods, Inhertance, Encapsulatio, Mixin)  
 ✅ **Promises/** (methods and examples)
+****
 ✅ **Async & Await /** (methods and examples)
 ✅ **Promisification/** (Promisfy and examples)
 
