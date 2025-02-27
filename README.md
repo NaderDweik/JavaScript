@@ -21,6 +21,9 @@ This repository is designed to **teach JavaScript** by breaking down concepts in
 ✅ **Async & Await /** (methods and examples)
 ****
 ✅ **Promisification/** (Promisfy and examples)
+****
+✅ **Destructuring Assignment/** (Destructuring Assignment)
+
 
 
 
