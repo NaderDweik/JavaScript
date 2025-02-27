@@ -15,6 +15,7 @@ This repository is designed to **teach JavaScript** by breaking down concepts in
 ✅ **Advanced Dates** (Date methods)  
 ****
 ✅ **Java Script Classes** (Methods, Inhertance, Encapsulatio, Mixin)  
+****
 ✅ **Promises/** (methods and examples)
 ****
 ✅ **Async & Await /** (methods and examples)
